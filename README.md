@@ -1,7 +1,7 @@
 </p>
   <p align="center">
-    <a href="https://github.com/dehghanpur10/actions">
-      <img alt="Tests Passing" src="[https://github.com/anuraghazra/github-readme-stats](https://github.com/dehghanpur10/actions)/workflows/Test/badge.svg" />
+    <a href="https://github.com/dehghanpur10/Test/actions">
+      <img alt="Tests Passing" src="https://github.com/anuraghazra/github-readme-stats/workflows/Test/badge.svg" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats/graphs/contributors">
       <img alt="GitHub Contributors" src="https://img.shields.io/github/contributors/anuraghazra/github-readme-stats" />
